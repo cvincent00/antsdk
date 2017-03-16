@@ -1,8 +1,8 @@
 package marketing
 
 import (
-  "github.com/LayGit/antsdk/api"
-  "github.com/LayGit/antsdk/utils"
+  "github.com/cvincent00/antsdk/api"
+  "github.com/cvincent00/antsdk/utils"
 )
 
 // 活动修改接口

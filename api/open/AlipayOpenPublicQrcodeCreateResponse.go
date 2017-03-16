@@ -1,7 +1,7 @@
 package open
 
 import (
-  "github.com/LayGit/antsdk/api"
+  "github.com/cvincent00/antsdk/api"
 )
 
 type AlipayOpenPublicQrcodeCreateResponse struct {

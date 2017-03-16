@@ -1,7 +1,7 @@
 package api
 
 import (
-  "github.com/LayGit/antsdk/utils"
+  "github.com/cvincent00/antsdk/utils"
 )
 
 type IAlipayUploadRequest interface {
